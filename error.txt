@@ -1,0 +1,21 @@
+[04-14-2023 11:46:06.218] ERROR: File not found!
+[04-14-2023 11:46:59.642] ERROR: File not found!
+[04-14-2023 11:51:11.458] ERROR: Item D4 is sold out.
+[04-14-2023 11:51:19.421] ERROR: d5 is not a valid selection.
+[04-14-2023 23:53:21.650] ERROR: Item B3 is sold out.
+[04-15-2023 01:18:00.525] ERROR: Cannot invoke "com.techelevator.view.Vendable.sound(String)" because "this.category" is null
+[04-15-2023 01:59:20.677] ERROR: File not found!
+[04-15-2023 01:59:20.685] ERROR: File not found!
+[04-15-2023 01:59:20.687] ERROR: C4 is not a valid selection.
+[04-15-2023 01:59:20.725] ERROR: File not found!
+[04-15-2023 01:59:20.726] ERROR: C4 is not a valid selection.
+[04-15-2023 01:59:20.729] ERROR: File not found!
+[04-15-2023 01:59:20.730] ERROR: File not found!
+[04-15-2023 01:59:20.731] ERROR: C4 is not a valid selection.
+[04-15-2023 01:59:20.733] ERROR: File not found!
+[04-15-2023 01:59:20.735] ERROR: File not found!
+[04-15-2023 02:07:41.925] ERROR: Your balance of $0.00 is insufficient for purchase of $1.50.
+[04-15-2023 04:09:59.077] ERROR: Item D2 is sold out.
+[04-15-2023 04:42:06.684] ERROR: null
+[04-20-2023 04:35:28.322] ERROR: Your balance of $0.00 is insufficient for purchase of $1.75.
+[06-19-2023 22:55:05.473] ERROR: 2 is not a valid selection.
